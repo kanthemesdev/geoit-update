@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <notifier>
-	<latest>5.3.1</latest>
+	<latest>5.3.2</latest>
 	<changelog>
 <![CDATA[
-<h4>Version 5.3.1</h4>
+<h4>Version 5.3.2</h4>
 <ul>
 <li>Initial theme version.</li>
 </ul>
